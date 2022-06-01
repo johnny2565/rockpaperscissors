@@ -1,2 +1,2 @@
 # rockpaperscissors
-Rock-Paper-Scissors Assignment
+Rock-Paper-Scissors Assignment.
